@@ -5,6 +5,6 @@ This project focuses on Customer Retention and Churn Analysis Dashboards, develo
 
 The dataset has been uploaded to Google Drive for easy access.
 
-# Customer Retention and Churn Analysis Dashboards : https://drive.google.com/file/d/14AiJRaIW_SW-azw2Veyh16j7WkTWS8Y-/view?usp=drive_link
+* Customer Retention and Churn Analysis Dashboards : https://drive.google.com/file/d/14AiJRaIW_SW-azw2Veyh16j7WkTWS8Y-/view?usp=drive_link
 
 
